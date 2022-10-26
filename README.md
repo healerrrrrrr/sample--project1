@@ -7,5 +7,5 @@ I am Yuxin Ou.
 I like:
  - sleeping
  - playing the piano
- -shopping
- -watching TV series
+ - watching TV series
+ - Shopping
